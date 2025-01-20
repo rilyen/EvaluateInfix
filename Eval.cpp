@@ -3,8 +3,7 @@
  *
  * Description: Evaluation of infix expressions using two Stacks.
  *
- * Author:  April Nguyen    301314527
- *          Anthony Nguyen  301545011
+ * Author:  
  * Date:    October 13, 2023
  */
 
